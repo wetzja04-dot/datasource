@@ -40,6 +40,7 @@
   "RENDER": "crypto/render-token",
   "RNDR": "crypto/render-token",
   "SAND": "crypto/the-sandbox",
+  "SKY": "crypto/sky",
   "SOL": "crypto/solana",
   "SUI": "crypto/sui",
   "TRX": "crypto/tron",
