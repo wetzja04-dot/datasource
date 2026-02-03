@@ -1859,6 +1859,7 @@
   "HAPPY": "crypto/happycat-2",
   "HARD": "crypto/kava-lend",
   "HAT": "crypto/top-hat",
+  "HAV": "crypto/0xtorch-gate-hav",
   "HBAR": "crypto/hedera-hashgraph",
   "HBAR3L": "crypto/0xtorch-gate-hbar3l",
   "HBAR3S": "crypto/0xtorch-gate-hbar3s",
